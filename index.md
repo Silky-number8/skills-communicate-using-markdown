@@ -10,3 +10,7 @@ Initialized empty git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Break-up with my boyfriend
+- [x] Start taking hormones
+- [x] Transition from male to female
+- [ ] Buy a gun
